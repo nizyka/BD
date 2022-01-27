@@ -1,0 +1,1 @@
+select*from Model inner join Automobile on Model.id_mod=Automobile.id_model
